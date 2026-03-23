@@ -1,0 +1,9 @@
+2 3 Akademicka 
+1 2 Marii Sk³odowskiej-Curie 
+4 1 £u¿ycka 
+3 4 Boles³awa Krzywoustego 
+3 5 Akademicka 
+5 6 Wroc³awska 
+6 4 £u¿yck 
+2 4 test 
+2 3 Akademicka 
